@@ -1,0 +1,307 @@
+match_id,Referee,Stadium,Home team,Away team
+2023000,Mostafa Osman,Gehaz El Reyada Stadium,Talaea El Gaish,Bank El Ahly
+2023001,Ibrahim Nour Eldin,Cairo International Stadium,Zed FC,Ismaily
+2023002,Mohamed Adel,Borg El Arab Stadium,Ahly SC,El Masry
+2023003,Sobhy El Amrawy,El Salam Stadium,El Dakhlia,Enppi SC
+2023004,Hesham El Kadi,Arab Contractors Stadium,El Mokawloon,Baladiya
+2023005,Mohamed El Atbany,Alexandria Stadium,Smouha,El Gouna
+2023006,Mahmoud Nagy,Borg El Arab Stadium,Pharco FC,Modern Future
+2023007,Abdelaziz El Sayed,Alexandria Stadium,Ittihad Alex,Cleopatra FC
+2023008,Mahmoud Bassiouni,30 June Stadium,Pyramids FC,Zamalek
+2023009,Ahmed El Ghandour,El Salam Stadium,Bank El Ahly,Pyramids FC
+2023010,Amin Omar,Cairo International Stadium,Zamalek,El Mokawloon
+2023011,Mohamed El Ghazi,Mahalla Stadium,Baladiya,Smouha
+2023012,Tarek Magdi,Cairo International Stadium,Modern Future,El Dakhlia
+2023013,Ahmed Gamal,Petrosport Stadium,Enppi SC,Talaea El Gaish
+2023014,Abdelaziz El Sayed,Cairo International Stadium,Cleopatra FC,Ahly SC
+2023015,Mohamed Salama,Khaled Bichara Stadium,El Gouna,Zed FC
+2023016,Hamada El Kalawi,Borg El Arab Stadium,El Masry,Pharco FC
+2023017,Mohamed Maarouf,Ismailia Stadium,Ismaily,Ittihad Alex
+2023018,Mohamed Abbas Kabil,Cairo International Stadium,Zed FC,Baladiya
+2023019,Mahmoud Wafa,Alexandria Stadium,Smouha,El Mokawloon
+2023020,Ahmed Hamdi,Alexandria Stadium,Ittihad Alex,El Gouna
+2023021,Wael Farhan,Alexandria Stadium,Pharco FC,Cleopatra FC
+2023022,Mostafa El Shohdi,Borg El Arab Stadium,El Dakhlia,El Masry
+2023023,Mohamed Maarouf,Cairo International Stadium,Bank El Ahly,Zamalek
+2023024,Ahmed El Ghandour,Gehaz El Reyada Stadium,Talaea El Gaish,Modern Future
+2023025,Mahmoud El Banna,Borg El Arab Stadium,Ahly SC,Ismaily
+2023026,Mahmoud Nagy,30 June Stadium,Pyramids FC,Enppi SC
+2023027,Ibrahim Nour Eldin,,El Masry,Talaea El Gaish
+2023028,,Suez Canal Authority Stadium,Cleopatra FC,El Dakhlia
+2023029,Mahmoud Nasef,Mahalla Stadium,Baladiya,Ittihad Alex
+2023030,Mohamed Youssef,Cairo International Stadium,Zamalek,Smouha
+2023031,Walid Abdelrazak,Petrosport Stadium,Enppi SC,Bank El Ahly
+2023032,Sayed Mounir,Arab Contractors Stadium,El Mokawloon,Zed FC
+2023033,Nader Kamar,Ismailia Stadium,Ismaily,Pharco FC
+2023034,Abdelaziz El Sayed,Cairo International Stadium,Modern Future,Pyramids FC
+2023035,Mohamed Youssef,Khaled Bichara Stadium,El Gouna,Ahly SC
+2023036,Mahmoud Bassiouni,Borg El Arab Stadium,Pyramids FC,El Masry
+2023037,Mohamed Adel,Petrosport Stadium,Enppi SC,Zamalek
+2023038,Atef Hussein,Alexandria Stadium,Pharco FC,El Gouna
+2023039,Mohamed El Atbany,Cairo International Stadium,Zed FC,Smouha
+2023040,Mohamed Salama,Alexandria Stadium,Ittihad Alex,El Mokawloon
+2023041,Hosny Soltan,Gehaz El Reyada Stadium,Talaea El Gaish,Cleopatra FC
+2023042,Tarek Magdi,El Salam Stadium,El Dakhlia,Ismaily
+2023043,,Cairo International Stadium,Bank El Ahly,Modern Future
+2023044,Ahmed El Ghandour,Cairo International Stadium,Ahly SC,Baladiya
+2023045,Mahmoud El Banna,Borg El Arab Stadium,Smouha,Ittihad Alex
+2023046,Amin Omar,Arab Contractors Stadium,Cleopatra FC,Pyramids FC
+2023047,,Cairo International Stadium,Zamalek,Zed FC
+2023048,Mahmoud Desouki,Khaled Bichara Stadium,El Gouna,El Dakhlia
+2023049,Mostafa Osman,Mahalla Stadium,Baladiya,Pharco FC
+2023050,Ibrahim Nour Eldin,Arab Contractors Stadium,El Mokawloon,Ahly SC
+2023051,Mohamed Maarouf,Ismailia Stadium,Ismaily,Talaea El Gaish
+2023052,Sayed Shaaban,Cairo International Stadium,Modern Future,Enppi SC
+2023053,Hesham El Kadi,Borg El Arab Stadium,El Masry,Bank El Ahly
+2023054,Mohamed Youssef,30 June Stadium,Pyramids FC,Ismaily
+2023055,Mohamed Adel,Cairo International Stadium,Ahly SC,Smouha
+2023056,Tarek Magdi,Cairo International Stadium,Modern Future,Zamalek
+2023057,Wael Farhan,Alexandria Stadium,Ittihad Alex,Zed FC
+2023058,,Gehaz El Reyada Stadium,Talaea El Gaish,El Gouna
+2023059,Mohamed El Ghazi,Alexandria Stadium,Pharco FC,El Mokawloon
+2023060,Ahmed Gamal,Petrosport Stadium,Enppi SC,El Masry
+2023061,Mahmoud Nasef,El Salam Stadium,El Dakhlia,Baladiya
+2023062,Mohamed Salama,Cairo International Stadium,Bank El Ahly,Cleopatra FC
+2023063,Walid Abdelrazak,Borg El Arab Stadium,Smouha,Pharco FC
+2023064,Mahmoud Wafa,Mahalla Stadium,Baladiya,Talaea El Gaish
+2023065,Mostafa El Shohdi,Suez Canal Authority Stadium,Cleopatra FC,Enppi SC
+2023066,Ibrahim Mohamed,Ismailia Stadium,Ismaily,Bank El Ahly
+2023067,Atef Hussein,Arab Contractors Stadium,El Mokawloon,El Dakhlia
+2023068,Walid Abdelrazak,Khaled Bichara Stadium,El Gouna,Pyramids FC
+2023069,Mohamed Adel,Borg El Arab Stadium,El Masry,Modern Future
+2023070,Amin Omar,Cairo International Stadium,Zed FC,Ahly SC
+2023071,Ahmed El Ghandour,Cairo International Stadium,Zamalek,Ittihad Alex
+2023072,Hosny Soltan,Cairo International Stadium,Bank El Ahly,El Gouna
+2023073,Abdelaziz El Sayed,Cairo International Stadium,Modern Future,Cleopatra FC
+2023074,Mahmoud El Banna,Borg El Arab Stadium,El Masry,Zamalek
+2023075,,30 June Stadium,Pyramids FC,Baladiya
+2023076,Ahmed Hamdi,El Salam Stadium,El Dakhlia,Smouha
+2023077,Mahmoud Desouki,Alexandria Stadium,Pharco FC,Zed FC
+2023078,Amin Omar,Gehaz El Reyada Stadium,Talaea El Gaish,El Mokawloon
+2023079,Mahmoud Bassiouni,Petrosport Stadium,Enppi SC,Ismaily
+2023080,Mohamed Maarouf,Cairo International Stadium,Ahly SC,Ittihad Alex
+2023081,Mahmoud Nagy,Khaled Bichara Stadium,El Gouna,Enppi SC
+2023082,Mohamed El Atbany,Mahalla Stadium,Baladiya,Bank El Ahly
+2023083,Ibrahim Nour Eldin,Alexandria Stadium,Ittihad Alex,Pharco FC
+2023084,,Cairo International Stadium,Zed FC,El Dakhlia
+2023085,,Borg El Arab Stadium,Smouha,Talaea El Gaish
+2023086,Mahmoud Bassiouni,Borg El Arab Stadium,Cleopatra FC,El Masry
+2023087,Hamada El Kalawi,Ismailia Stadium,Ismaily,Modern Future
+2023088,Mohamed El Ghazi,Arab Contractors Stadium,El Mokawloon,Pyramids FC
+2023089,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Ahly SC
+2023090,Nader Kamar,Cairo International Stadium,Bank El Ahly,El Mokawloon
+2023091,Mohamed El Ghazi,Gehaz El Reyada Stadium,Talaea El Gaish,Zed FC
+2023092,Abdelaziz El Sayed,Petrosport Stadium,Enppi SC,Baladiya
+2023093,Mostafa Osman,El Salam Stadium,El Dakhlia,Ittihad Alex
+2023094,Ahmed El Ghandour,,El Masry,Ismaily
+2023095,Mostafa El Shohdi,Cairo International Stadium,Modern Future,El Gouna
+2023096,Mohamed El Atbany,30 June Stadium,Pyramids FC,Smouha
+2023097,Abdelaziz El Sayed,Arab Contractors Stadium,Cleopatra FC,Zamalek
+2023098,Mahmoud Nagy,Alexandria Stadium,Pharco FC,Ahly SC
+2023099,Ibrahim Mohamed,Borg El Arab Stadium,El Gouna,El Masry
+2023100,Hamada El Kalawi,Alexandria Stadium,Smouha,Bank El Ahly
+2023101,Mostafa Osman,Arab Contractors Stadium,El Mokawloon,Enppi SC
+2023102,Nader Kamar,Alexandria Stadium,Ittihad Alex,Talaea El Gaish
+2023103,,Cairo International Stadium,Zed FC,Pyramids FC
+2023104,Mahmoud Bassiouni,Mahalla Stadium,Baladiya,Modern Future
+2023105,Hesham El Kadi,Ismailia Stadium,Ismaily,Cleopatra FC
+2023106,Mohamed El Ghazi,Cairo International Stadium,Zamalek,Pharco FC
+2023107,Ibrahim Mohamed,El Salam Stadium,El Dakhlia,Ahly SC
+2023108,Wael Farhan,Cairo International Stadium,Bank El Ahly,Zed FC
+2023109,Mahmoud Nasef,Petrosport Stadium,Enppi SC,Smouha
+2023110,Mahmoud El Banna,30 June Stadium,Pyramids FC,Ittihad Alex
+2023111,Walid Abdelrazak,Cairo International Stadium,Modern Future,El Mokawloon
+2023112,Mohamed Adel,Ismailia Stadium,Ismaily,Zamalek
+2023113,Abdelaziz El Sayed,Arab Contractors Stadium,Cleopatra FC,El Gouna
+2023114,Khaled El Ghandour,El Salam Stadium,El Dakhlia,Pharco FC
+2023115,Mohamed Abbas Kabil,Borg El Arab Stadium,El Masry,Baladiya
+2023116,Mahmoud Bassiouni,Gehaz El Reyada Stadium,Talaea El Gaish,Ahly SC
+2023117,Sobhy El Amrawy,Mahalla Stadium,Baladiya,Cleopatra FC
+2023118,Ahmed Hamdi,Alexandria Stadium,Pharco FC,Talaea El Gaish
+2023119,Mahmoud Desouki,Alexandria Stadium,Ittihad Alex,Bank El Ahly
+2023120,Mostafa El Shohdi,Khaled Bichara Stadium,El Gouna,Ismaily
+2023121,Atef Hussein,Cairo International Stadium,Zed FC,Enppi SC
+2023122,Ahmed Gamal,Arab Contractors Stadium,El Mokawloon,El Masry
+2023123,Mohamed El Ghazi,Alexandria Stadium,Smouha,Modern Future
+2023124,,Cairo International Stadium,Zamalek,El Dakhlia
+2023125,Javier Alberola Rojas,Cairo International Stadium,Ahly SC,Pyramids FC
+2023126,Mohamed El Kallawy,Arab Contractors Stadium,Cleopatra FC,El Mokawloon
+2023127,Sayed Shaaban,Ismailia Stadium,Ismaily,Baladiya
+2023128,,Petrosport Stadium,Enppi SC,Ittihad Alex
+2023129,Hosny Soltan,Gehaz El Reyada Stadium,Talaea El Gaish,El Dakhlia
+2023130,Mohamed El Atbany,Borg El Arab Stadium,El Masry,Smouha
+2023131,Mohamed Maarouf,30 June Stadium,Pyramids FC,Pharco FC
+2023132,Mahmoud Bassiouni,Cairo International Stadium,Modern Future,Zed FC
+2023133,Mohamed Salama,Khaled Bichara Stadium,El Gouna,Zamalek
+2023134,Mahmoud El Banna,Cairo International Stadium,Bank El Ahly,Ahly SC
+2023135,Mahmoud Wafa,Alexandria Stadium,Pharco FC,Bank El Ahly
+2023136,Sayed Mounir,Mahalla Stadium,Baladiya,El Gouna
+2023137,Tarek Magdi,Arab Contractors Stadium,El Mokawloon,Ismaily
+2023138,Nader Kamar,Alexandria Stadium,Smouha,Cleopatra FC
+2023139,Hesham El Kadi,El Salam Stadium,El Dakhlia,Pyramids FC
+2023140,Ibrahim Mohamed,Alexandria Stadium,Ittihad Alex,Modern Future
+2023141,Mostafa Osman,Cairo International Stadium,Zed FC,El Masry
+2023142,Tarek Magdi,Cairo International Stadium,Ahly SC,Enppi SC
+2023143,Mohamed Maarouf,Gehaz El Reyada Stadium,Talaea El Gaish,Zamalek
+2023144,Mostafa El Shohdi,Arab Contractors Stadium,Cleopatra FC,Zed FC
+2023145,Mohamed Maarouf,Ismailia Stadium,Ismaily,Smouha
+2023146,,Khaled Bichara Stadium,El Gouna,El Mokawloon
+2023147,Mahmoud Nasef,Cairo International Stadium,Bank El Ahly,El Dakhlia
+2023148,Wael Farhan,Petrosport Stadium,Enppi SC,Pharco FC
+2023149,Abdelaziz El Sayed,Borg El Arab Stadium,El Masry,Ittihad Alex
+2023150,Ibrahim Nour Eldin,30 June Stadium,Pyramids FC,Talaea El Gaish
+2023151,Mahmoud Wafa,Cairo International Stadium,Zamalek,Baladiya
+2023152,Mohamed Adel,Cairo International Stadium,Modern Future,Ahly SC
+2023153,Atef Hussein,Khaled Bichara Stadium,El Gouna,Smouha
+2023154,Sobhy El Amrawy,Petrosport Stadium,Enppi SC,El Dakhlia
+2023155,Mohamed Maarouf,Cairo International Stadium,Bank El Ahly,Talaea El Gaish
+2023156,Mahmoud Nagy,Arab Contractors Stadium,Cleopatra FC,Ittihad Alex
+2023157,Mahmoud El Banna,Cairo International Stadium,Modern Future,Pharco FC
+2023158,Mohamed Salama,Ismailia Stadium,Ismaily,Zed FC
+2023159,Khaled El Ghandour,Mahalla Stadium,Baladiya,El Mokawloon
+2023160,Benoît Bastien,Borg El Arab Stadium,El Masry,Ahly SC
+2023161,Mohamed Adel,Cairo International Stadium,Zamalek,Pyramids FC
+2023162,Ahmed Gamal,Cairo International Stadium,Zed FC,El Gouna
+2023163,Ahmed Hamdi,El Salam Stadium,El Dakhlia,Modern Future
+2023164,Amin Omar,Alexandria Stadium,Ittihad Alex,Ismaily
+2023165,Mahmoud Desouki,Alexandria Stadium,Smouha,Baladiya
+2023166,Abdelaziz El Sayed,Alexandria Stadium,Pharco FC,El Masry
+2023167,Nader Kamar,Gehaz El Reyada Stadium,Talaea El Gaish,Enppi SC
+2023168,Mohamed Youssef,30 June Stadium,Pyramids FC,Bank El Ahly
+2023169,Mohamed Maarouf,Cairo International Stadium,Ahly SC,Cleopatra FC
+2023170,Mahmoud El Banna,Arab Contractors Stadium,El Mokawloon,Zamalek
+2023171,Hosny Soltan,Mahalla Stadium,Baladiya,Zed FC
+2023172,Mahmoud Wafa,Khaled Bichara Stadium,El Gouna,Ittihad Alex
+2023173,Mohamed El Ghazi,Borg El Arab Stadium,El Masry,El Dakhlia
+2023174,Wael Farhan,Arab Contractors Stadium,El Mokawloon,Smouha
+2023175,Mohamed El Atbany,Arab Contractors Stadium,Cleopatra FC,Pharco FC
+2023176,Ibrahim Mohamed,Petrosport Stadium,Enppi SC,Pyramids FC
+2023177,Ahmed El Ghandour,Borg El Arab Stadium,Ismaily,Ahly SC
+2023178,Mostafa Osman,El Salam Stadium,Modern Future,Talaea El Gaish
+2023179,Mohamed Adel,Cairo International Stadium,Zamalek,Bank El Ahly
+2023180,Walid Abdelrazak,Alexandria Stadium,Ittihad Alex,Baladiya
+2023181,Mohamed Salama,Cairo International Stadium,Zed FC,El Mokawloon
+2023182,Abdelaziz El Sayed,Alexandria Stadium,Pharco FC,Ismaily
+2023183,Mahmoud Bassiouni,Cairo International Stadium,Ahly SC,El Gouna
+2023184,,El Salam Stadium,El Dakhlia,Cleopatra FC
+2023185,Mahmoud El Banna,Alexandria Stadium,Smouha,Zamalek
+2023186,Mostafa El Shohdi,Cairo International Stadium,Bank El Ahly,Enppi SC
+2023187,Nader Kamar,30 June Stadium,Pyramids FC,Modern Future
+2023188,Tarek Magdi,Gehaz El Reyada Stadium,Talaea El Gaish,El Masry
+2023189,Ahmed Gamal,Ismailia Stadium,Ismaily,El Dakhlia
+2023190,Mahmoud Nagy,Alexandria Stadium,Smouha,Zed FC
+2023191,Atef Hussein,Arab Contractors Stadium,Cleopatra FC,Talaea El Gaish
+2023192,Mahmoud Desouki,Khaled Bichara Stadium,El Gouna,Pharco FC
+2023193,Sobhy El Amrawy,Cairo International Stadium,Modern Future,Bank El Ahly
+2023194,Abdelaziz El Sayed,Arab Contractors Stadium,El Mokawloon,Ittihad Alex
+2023195,Mahmoud Nasef,Mahalla Stadium,Baladiya,Ahly SC
+2023196,Amin Omar,Borg El Arab Stadium,El Masry,Pyramids FC
+2023197,Mahmoud Nasef,Cairo International Stadium,Zamalek,Enppi SC
+2023198,Mohamed El Ghazi,Alexandria Stadium,Ittihad Alex,Smouha
+2023199,Mohamed Adel,Gehaz El Reyada Stadium,Talaea El Gaish,Ismaily
+2023200,,El Salam Stadium,El Dakhlia,El Gouna
+2023201,Mahmoud Wafa,30 June Stadium,Pyramids FC,Cleopatra FC
+2023202,Hesham El Kadi,Alexandria Stadium,Pharco FC,Baladiya
+2023203,Mahmoud El Banna,Petrosport Stadium,Enppi SC,Modern Future
+2023204,Ibrahim Mohamed,Cairo International Stadium,Bank El Ahly,El Masry
+2023205,Mahmoud Bassiouni,Cairo International Stadium,Ahly SC,El Mokawloon
+2023206,Ahmed Gamal,Cairo International Stadium,Zed FC,Zamalek
+2023207,Tarek Magdi,Ismailia Stadium,Ismaily,Pyramids FC
+2023208,Mohamed El Atbany,Borg El Arab Stadium,El Masry,Enppi SC
+2023209,,Cairo International Stadium,Zed FC,Ittihad Alex
+2023210,,Arab Contractors Stadium,El Mokawloon,Pharco FC
+2023211,Mahmoud Bassiouni,Mahalla Stadium,Baladiya,El Dakhlia
+2023212,Ahmed Hamdi,Khaled Bichara Stadium,El Gouna,Talaea El Gaish
+2023213,Mahmoud Nagy,Arab Contractors Stadium,Cleopatra FC,Bank El Ahly
+2023214,Amin Omar,Cairo International Stadium,Zamalek,Modern Future
+2023215,Wael Farhan,Alexandria Stadium,Smouha,Ahly SC
+2023216,Mostafa Osman,Petrosport Stadium,Enppi SC,Cleopatra FC
+2023217,Mohamed Adel,El Max,Pharco FC,Smouha
+2023218,Ahmed El Ghandour,El Salam Stadium,El Dakhlia,El Mokawloon
+2023219,Amin Omar,Cairo International Stadium,Bank El Ahly,Ismaily
+2023220,Sayed Shaaban,Gehaz El Reyada Stadium,Talaea El Gaish,Baladiya
+2023221,Hesham El Kadi,Borg El Arab Stadium,Modern Future,El Masry
+2023222,Mohamed Salama,30 June Stadium,Pyramids FC,El Gouna
+2023223,Mohamed Maarouf,Alexandria Stadium,Ittihad Alex,Zamalek
+2023224,Ibrahim Mohamed,Cairo International Stadium,Ahly SC,Zed FC
+2023225,Sayed Mounir,Arab Contractors Stadium,El Mokawloon,Talaea El Gaish
+2023226,,Khaled Bichara Stadium,El Gouna,Bank El Ahly
+2023227,Mahmoud Nasef,Ismailia Stadium,Ismaily,Enppi SC
+2023228,Ahmed El Ghandour,Borg El Arab Stadium,Zamalek,El Masry
+2023229,Mohamed El Kallawy,Alexandria Stadium,Smouha,El Dakhlia
+2023230,Tarek Magdi,Alexandria Stadium,Ittihad Alex,Ahly SC
+2023231,Walid Abdelrazak,Cairo International Stadium,Zed FC,Pharco FC
+2023232,Amin Omar,Mahalla Stadium,Baladiya,Pyramids FC
+2023233,Sobhy El Amrawy,Arab Contractors Stadium,Cleopatra FC,Modern Future
+2023234,Sayed Shaaban,Petrosport Stadium,Enppi SC,El Gouna
+2023235,Nader Kamar,Gehaz El Reyada Stadium,Talaea El Gaish,Smouha
+2023236,Mahmoud Desouki,Cairo International Stadium,Modern Future,Ismaily
+2023237,Mahmoud Bassiouni,Borg El Arab Stadium,El Masry,Cleopatra FC
+2023238,Mohamed El Hanafy,30 June Stadium,Pyramids FC,El Mokawloon
+2023239,Mahmoud El Banna,Cairo International Stadium,Bank El Ahly,Baladiya
+2023240,Mohamed Abbas Kabil,El Salam Stadium,El Dakhlia,Zed FC
+2023241,Mohamed Abbas Kabil,Alexandria Stadium,Pharco FC,Ittihad Alex
+2023242,,Cairo International Stadium,Ahly SC,Zamalek
+2023243,Khaled El Ghandour,Khaled Bichara Stadium,El Gouna,Modern Future
+2023244,Mohamed Maarouf,Ismailia Stadium,Ismaily,El Masry
+2023245,Ahmed Gamal,Cairo International Stadium,Zed FC,Talaea El Gaish
+2023246,Amin Omar,Arab Contractors Stadium,El Mokawloon,Bank El Ahly
+2023247,Nader Kamar,Cairo International Stadium,Ahly SC,Pharco FC
+2023248,Mohamed El Kallawy,Mahalla Stadium,Baladiya,Enppi SC
+2023249,Mohamed El Atbany,Alexandria Stadium,Ittihad Alex,El Dakhlia
+2023250,Tarek Magdi,Cairo International Stadium,Zamalek,Cleopatra FC
+2023251,Mohamed Salama,Alexandria Stadium,Smouha,Pyramids FC
+2023252,Hosny Soltan,Borg El Arab Stadium,El Masry,El Gouna
+2023253,Atef Hussein,Petrosport Stadium,Enppi SC,El Mokawloon
+2023254,Ahmed Hamdi,Cairo International Stadium,Modern Future,Baladiya
+2023255,Mohamed El Hanafy,Arab Contractors Stadium,Cleopatra FC,Ismaily
+2023256,Mostafa El Shohdi,Alexandria Stadium,Pharco FC,Zamalek
+2023257,Mostafa Osman,Cairo International Stadium,Ahly SC,El Dakhlia
+2023258,Mahmoud Nasef,Gehaz El Reyada Stadium,Talaea El Gaish,Ittihad Alex
+2023259,Hesham El Kadi,Cairo International Stadium,Bank El Ahly,Smouha
+2023260,Mohamed El Kallawy,30 June Stadium,Pyramids FC,Zed FC
+2023261,Walid Abdelrazak,Alexandria Stadium,Smouha,Enppi SC
+2023262,Mohamed El Ghazi,Cairo International Stadium,Zed FC,Bank El Ahly
+2023263,Sobhy El Amrawy,Borg El Arab Stadium,Baladiya,El Masry
+2023264,Amin Omar,Cairo International Stadium,Zamalek,Ismaily
+2023265,Ibrahim Mohamed,Khaled Bichara Stadium,El Gouna,Cleopatra FC
+2023266,Wael Farhan,Harras El-Hedoud Stadium,Pharco FC,El Dakhlia
+2023267,Mahmoud El Banna,Alexandria Stadium,Ittihad Alex,Pyramids FC
+2023268,Hamada El Kalawi,Cairo International Stadium,Ahly SC,Talaea El Gaish
+2023269,Tarek Magdi,Arab Contractors Stadium,El Mokawloon,Modern Future
+2023270,,Gehaz El Reyada Stadium,Talaea El Gaish,Pharco FC
+2023271,Ahmed El Ghandour,Cairo International Stadium,Bank El Ahly,Ittihad Alex
+2023272,Mohamed Abbas Kabil,Arab Contractors Stadium,Cleopatra FC,Baladiya
+2023273,Mahmoud Nagy,Borg El Arab Stadium,El Masry,El Mokawloon
+2023274,Sayed Mounir,Petrosport Stadium,Enppi SC,Zed FC
+2023275,Mohamed El Atbany,El Salam Stadium,El Dakhlia,Zamalek
+2023276,Abdelaziz El Sayed,Ismailia Stadium,Ismaily,El Gouna
+2023277,Felix Zwayer,30 June Stadium,Pyramids FC,Ahly SC
+2023278,Amin Omar,Cairo International Stadium,Modern Future,Smouha
+2023279,Khaled Gamal,El Salam Stadium,El Dakhlia,Talaea El Gaish
+2023280,Nader Kamar,Mahalla Stadium,Baladiya,Ismaily
+2023281,Mostafa Osman,Alexandria Stadium,Pharco FC,Pyramids FC
+2023282,Ahmed Hamdi,Alexandria Stadium,Ittihad Alex,Enppi SC
+2023283,Mahmoud Nagy,Cairo International Stadium,Zed FC,Modern Future
+2023284,Ahmed El Ghandour,Arab Contractors Stadium,El Mokawloon,Cleopatra FC
+2023285,Sayed Shaaban,Borg El Arab Stadium,Smouha,El Masry
+2023286,Amin Omar,Cairo International Stadium,Ahly SC,Bank El Ahly
+2023287,Hesham El Kadi,Cairo International Stadium,Zamalek,El Gouna
+2023288,Mahmoud Desouki,Arab Contractors Stadium,Cleopatra FC,Smouha
+2023289,Mohamed El Hanafy,Cairo International Stadium,Modern Future,Ittihad Alex
+2023290,Amin Omar,Ismailia Stadium,Ismaily,El Mokawloon
+2023291,Tarek Magdi,Khaled Bichara Stadium,El Gouna,Baladiya
+2023292,Mahmoud El Banna,Cairo International Stadium,Bank El Ahly,Pharco FC
+2023293,,Borg El Arab Stadium,El Masry,Zed FC
+2023294,Walid Abdelrazak,Cairo International Stadium,Zamalek,Talaea El Gaish
+2023295,Shahenda El Maghrabi,30 June Stadium,Pyramids FC,El Dakhlia
+2023296,Ahmed Hamdi,Petrosport Stadium,Enppi SC,Ahly SC
+2023297,Mohamed El Ghazi,Gehaz El Reyada Stadium,Talaea El Gaish,Pyramids FC
+2023298,Mahmoud Wafa,Alexandria Stadium,Smouha,Ismaily
+2023299,Nader Kamar,Alexandria Stadium,Pharco FC,Enppi SC
+2023300,Mahmoud Nagy,Cairo International Stadium,Ahly SC,Modern Future
+2023301,Mohamed Abbas Kabil,Mahalla Stadium,Baladiya,Zamalek
+2023302,Sobhy El Amrawy,El Salam Stadium,El Dakhlia,Bank El Ahly
+2023303,Hosny Soltan,Arab Contractors Stadium,El Mokawloon,El Gouna
+2023304,Atef Hussein,Alexandria Stadium,Ittihad Alex,El Masry
+2023305,Mohamed Salama,Cairo International Stadium,Zed FC,Cleopatra FC

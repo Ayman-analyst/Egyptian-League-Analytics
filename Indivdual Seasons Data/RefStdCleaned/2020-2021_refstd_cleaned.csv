@@ -1,0 +1,307 @@
+match_id,Referee,Stadium,Home team,Away team
+2020000,Abdelaziz El Sayed,Petrosport Stadium,Enppi SC,Aswan SC
+2020001,Mohamed Salama,Gehaz El Reyada Stadium,Talaea El Gaish,El Gouna
+2020002,Mohamed Youssef,El Salam Stadium,Entag El Harby,Cleopatra FC
+2020003,Said Hamza,El Shorta Stadium,Bank El Ahly,Wadi Degla
+2020004,Mohamed El Sabahi,30 June Stadium,Pyramids FC,Ittihad Alex
+2020005,Gehad Grisha,Cairo Military Academy Stadium,El Mokawloon,Zamalek
+2020006,Mahmoud Nagy,Borg El Arab Stadium,El Masry,Ismaily
+2020007,Ibrahim Nour Eldin,El Ahly Stadium,Ahly SC,El Makasa
+2020008,Ahmed El Adawi,Alexandria Stadium,Smouha,El Mahalla
+2020009,Mahmoud Ashour,Petrosport Stadium,Aswan SC,Talaea El Gaish
+2020010,Walid Abdelrazak,Suez Stadium,Cleopatra FC,Bank El Ahly
+2020011,Ahmed Hamdi,El Salam Stadium,Wadi Degla,El Mokawloon
+2020012,Mahmoud Bassiouni,Borg El Arab Stadium,El Gouna,El Masry
+2020013,Mahmoud El Banna,Ismailia Stadium,Ismaily,Entag El Harby
+2020014,Mohamed Adel,30 June Stadium,Zamalek,Pyramids FC
+2020015,Ahmed Gamal,Arab Contractors Stadium,El Makasa,Enppi SC
+2020016,Mohamed El Hanafy,Alexandria Stadium,Ittihad Alex,Smouha
+2020017,Tarek Magdi,El Ahly Stadium,Ahly SC,El Mahalla
+2020018,Ahmed El Adawi,El Shorta Stadium,Bank El Ahly,Entag El Harby
+2020019,Mohamed Youssef,Khaled Bichara Stadium,El Gouna,Ismaily
+2020020,Mohamed El Sabahi,,El Masry,Aswan SC
+2020021,Said Hamza,Petrosport Stadium,Enppi SC,El Mahalla
+2020022,Gehad Grisha,Gehaz El Reyada Stadium,Talaea El Gaish,El Makasa
+2020023,Mahmoud Ashour,Alexandria Stadium,Smouha,Zamalek
+2020024,Gehad Grisha,El Ahly Stadium,Ahly SC,Ittihad Alex
+2020025,Gehad Grisha,30 June Stadium,Pyramids FC,Wadi Degla
+2020026,Ahmed Gamal,Arab Contractors Stadium,El Mokawloon,Cleopatra FC
+2020027,Abdelaziz El Sayed,El Salam Stadium,Wadi Degla,Smouha
+2020028,Tarek Magdi,Aswan Stadium,Aswan SC,El Gouna
+2020029,Mahmoud El Banna,Mahalla Stadium,El Mahalla,Talaea El Gaish
+2020030,Mahmoud Bassiouni,Ismailia Stadium,Ismaily,Bank El Ahly
+2020031,,El Salam Stadium,Entag El Harby,El Mokawloon
+2020032,Walid Abdelrazak,Arab Contractors Stadium,El Makasa,El Masry
+2020033,Mohamed El Hanafy,Arab Contractors Stadium,Cleopatra FC,Pyramids FC
+2020034,Mohamed Youssef,Alexandria Stadium,Ittihad Alex,Enppi SC
+2020035,Mahmoud El Banna,Cairo International Stadium,Zamalek,Ahly SC
+2020036,Mohamed Maarouf,Aswan Stadium,Aswan SC,Ismaily
+2020037,Ahmed El Adawi,Khaled Bichara Stadium,El Gouna,El Makasa
+2020038,Mohamed Youssef,Arab Contractors Stadium,El Mokawloon,Bank El Ahly
+2020039,Ahmed Gamal,,El Masry,El Mahalla
+2020040,Mahmoud Nagy,30 June Stadium,Pyramids FC,Entag El Harby
+2020041,Ahmed El Ghandour,El Ahly Stadium,Ahly SC,Wadi Degla
+2020042,Amin Omar,Borg El Arab Stadium,Smouha,Cleopatra FC
+2020043,Mohamed Adel,Gehaz El Reyada Stadium,Talaea El Gaish,Ittihad Alex
+2020044,Mohamed El Sabahi,Petrosport Stadium,Enppi SC,Zamalek
+2020045,Mahmoud Ashour,Alexandria Stadium,Ittihad Alex,El Masry
+2020046,Mohamed Maarouf,El Shorta Stadium,Bank El Ahly,Pyramids FC
+2020047,Mohamed Adel,,Wadi Degla,Enppi SC
+2020048,Mohamed Youssef,Suez Stadium,Cleopatra FC,Ahly SC
+2020049,Mohamed Salama,Fayoum Stadium,El Makasa,Aswan SC
+2020050,Walid Abdelrazak,Mahalla Stadium,El Mahalla,El Gouna
+2020051,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Talaea El Gaish
+2020052,Walid Abdelrazak,El Salam Stadium,Entag El Harby,Smouha
+2020053,Mohamed El Hanafy,Ismailia Stadium,Ismaily,El Mokawloon
+2020054,Ahmed Hamdi,Fayoum Stadium,El Makasa,Ismaily
+2020055,Ahmed El Adawi,Alexandria Stadium,Smouha,Bank El Ahly
+2020056,Mohamed El Hanafy,Borg El Arab Stadium,El Masry,Zamalek
+2020057,Mohamed Adel,El Ahly Stadium,Ahly SC,Entag El Harby
+2020058,Abdelaziz El Sayed,Sekka El Hadid Stadium,Aswan SC,El Mahalla
+2020059,Ahmed Hamdi,Khaled Bichara Stadium,El Gouna,Ittihad Alex
+2020060,Tarek Magdi,Gehaz El Reyada Stadium,Talaea El Gaish,Wadi Degla
+2020061,Mahmoud Nagy,Petrosport Stadium,Enppi SC,Cleopatra FC
+2020062,Mahmoud Bassiouni,30 June Stadium,Pyramids FC,El Mokawloon
+2020063,Mohamed Salama,El Max,Bank El Ahly,Ahly SC
+2020064,Said Hamza,Mahalla Stadium,El Mahalla,El Makasa
+2020065,,Suez Canal Authority Stadium,Cleopatra FC,Talaea El Gaish
+2020066,Ahmed El Adawi,Petrosport Stadium,Zamalek,El Gouna
+2020067,Mohamed El Sabahi,Borg El Arab Stadium,Wadi Degla,El Masry
+2020068,Mohamed El Sabahi,Arab Contractors Stadium,El Mokawloon,Smouha
+2020069,Mohamed El Sabahi,Ismailia Stadium,Ismaily,Pyramids FC
+2020070,Mohamed El Hanafy,Alexandria Stadium,Ittihad Alex,Aswan SC
+2020071,Ahmed Hamdi,El Salam Stadium,Entag El Harby,Enppi SC
+2020072,Mahmoud Nagy,El Ahly Stadium,Ahly SC,El Mokawloon
+2020073,Mohamed Adel,Alexandria Stadium,Smouha,Pyramids FC
+2020074,Mohamed El Hanafy,Gehaz El Reyada Stadium,Talaea El Gaish,Entag El Harby
+2020075,Mahmoud Ashour,Mahalla Stadium,El Mahalla,Ismaily
+2020076,Mohamed Youssef,Petrosport Stadium,Aswan SC,Zamalek
+2020077,Ahmed Gamal,Petrosport Stadium,Enppi SC,Bank El Ahly
+2020078,Abdelaziz El Sayed,Khaled Bichara Stadium,El Gouna,Wadi Degla
+2020079,Ahmed El Adawi,Fayoum Stadium,El Makasa,Ittihad Alex
+2020080,Ibrahim Nour Eldin,Borg El Arab Stadium,El Masry,Cleopatra FC
+2020081,Gehad Grisha,30 June Stadium,Pyramids FC,Ahly SC
+2020082,Mahmoud Nagy,Cairo International Stadium,Bank El Ahly,Talaea El Gaish
+2020083,Amin Omar,Petrosport Stadium,Zamalek,El Makasa
+2020084,Mahmoud Bassiouni,Suez Canal Authority Stadium,Cleopatra FC,El Gouna
+2020085,Ahmed Hamdi,,Wadi Degla,Aswan SC
+2020086,Ibrahim Nour Eldin,Borg El Arab Stadium,Entag El Harby,El Masry
+2020087,Said Hamza,Arab Contractors Stadium,El Mokawloon,Enppi SC
+2020088,Ibrahim Nour Eldin,Ismailia Stadium,Ismaily,Smouha
+2020089,Abdelaziz El Sayed,Alexandria Stadium,Ittihad Alex,El Mahalla
+2020090,Mohamed Adel,Aswan Stadium,Aswan SC,Cleopatra FC
+2020091,Ahmed Gamal,Khaled Bichara Stadium,El Gouna,Entag El Harby
+2020092,Mohamed El Hanafy,Mahalla Stadium,El Mahalla,Zamalek
+2020093,Abdelaziz El Sayed,,El Masry,Bank El Ahly
+2020094,Mahmoud Nagy,Petrosport Stadium,Enppi SC,Pyramids FC
+2020095,Amin Omar,Gehaz El Reyada Stadium,Talaea El Gaish,El Mokawloon
+2020096,Amin Omar,Alexandria Stadium,Ittihad Alex,Ismaily
+2020097,Abdelaziz El Sayed,Fayoum Stadium,El Makasa,Wadi Degla
+2020098,Mohamed El Sabahi,Cairo International Stadium,Ahly SC,Smouha
+2020099,Walid Abdelrazak,Cairo International Stadium,Bank El Ahly,El Gouna
+2020100,Abdelaziz El Sayed,30 June Stadium,Pyramids FC,Talaea El Gaish
+2020101,Mohamed El Sabahi,El Salam Stadium,Entag El Harby,Aswan SC
+2020102,Mahmoud Nagy,Borg El Arab Stadium,El Mokawloon,El Masry
+2020103,Mahmoud Bassiouni,,Wadi Degla,El Mahalla
+2020104,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Ittihad Alex
+2020105,Said Hamza,Suez Canal Authority Stadium,Cleopatra FC,El Makasa
+2020106,Amin Omar,Borg El Arab Stadium,Smouha,Enppi SC
+2020107,Ibrahim Nour Eldin,Ismailia Stadium,Ismaily,Ahly SC
+2020108,Ahmed Hamdi,Mahalla Stadium,El Mahalla,Cleopatra FC
+2020109,Gehad Grisha,Fayoum Stadium,El Makasa,Entag El Harby
+2020110,Mohamed El Hanafy,Gehaz El Reyada Stadium,Talaea El Gaish,Smouha
+2020111,Mahmoud El Banna,Cairo International Stadium,Zamalek,Ismaily
+2020112,Gehad Grisha,Khaled Bichara Stadium,El Gouna,El Mokawloon
+2020113,Mohamed El Sabahi,Alexandria Stadium,Ittihad Alex,Wadi Degla
+2020114,Mahmoud Bassiouni,Petrosport Stadium,Aswan SC,Bank El Ahly
+2020115,Mohamed El Sabahi,Borg El Arab Stadium,El Masry,Pyramids FC
+2020116,Mahmoud Ashour,Petrosport Stadium,Enppi SC,Ahly SC
+2020117,Mohamed Youssef,El Shorta Stadium,Bank El Ahly,El Makasa
+2020118,Ahmed Gamal,Arab Contractors Stadium,El Mokawloon,Aswan SC
+2020119,Ahmed El Ghandour,Suez Canal Authority Stadium,Cleopatra FC,Ittihad Alex
+2020120,Mohamed Salama,El Salam Stadium,Entag El Harby,El Mahalla
+2020121,Tarek Magdi,Ismailia Stadium,Ismaily,Enppi SC
+2020122,Ahmed El Adawi,Borg El Arab Stadium,Smouha,El Masry
+2020123,Amin Omar,30 June Stadium,Pyramids FC,El Gouna
+2020124,Mahmoud El Banna,El Ahly Stadium,Ahly SC,Talaea El Gaish
+2020125,Mohamed Adel,El Salam Stadium,Wadi Degla,Zamalek
+2020126,Mohamed Salama,Khaled Bichara Stadium,El Gouna,Smouha
+2020127,Tarek Magdi,Fayoum Stadium,El Makasa,El Mokawloon
+2020128,Walid Abdelrazak,Mahalla Stadium,El Mahalla,Bank El Ahly
+2020129,Ahmed El Ghandour,El Salam Stadium,Wadi Degla,Ismaily
+2020130,Mahmoud Ashour,Alexandria Stadium,Ittihad Alex,Entag El Harby
+2020131,Mohamed Adel,Gehaz El Reyada Stadium,Talaea El Gaish,Enppi SC
+2020132,Ahmed El Adawi,Petrosport Stadium,Aswan SC,Pyramids FC
+2020133,Mahmoud Nagy,Cairo International Stadium,Zamalek,Cleopatra FC
+2020134,Mohamed El Hanafy,Alexandria Stadium,El Masry,Ahly SC
+2020135,Mohamed Maarouf,Alexandria Stadium,Smouha,Aswan SC
+2020136,Mahmoud Ashour,Petrosport Stadium,Enppi SC,El Masry
+2020137,Said Hamza,Arab Contractors Stadium,El Mokawloon,El Mahalla
+2020138,Tarek Magdi,Cairo International Stadium,Bank El Ahly,Ittihad Alex
+2020139,Ahmed Gamal,Suez Canal Authority Stadium,Cleopatra FC,Wadi Degla
+2020140,Gehad Grisha,Gehaz El Reyada Stadium,Talaea El Gaish,Ismaily
+2020141,Said Hamza,30 June Stadium,Pyramids FC,El Makasa
+2020142,Amin Omar,El Salam Stadium,Entag El Harby,Zamalek
+2020143,Mohamed Adel,El Ahly Stadium,Ahly SC,El Gouna
+2020144,Gehad Grisha,El Salam Stadium,Wadi Degla,Entag El Harby
+2020145,Mohamed Youssef,Arab Contractors Stadium,El Makasa,Smouha
+2020146,Mohamed El Sabahi,,El Masry,Talaea El Gaish
+2020147,Mohamed Adel,Ismailia Stadium,Ismaily,Cleopatra FC
+2020148,Mohamed El Hanafy,Alexandria Stadium,Ittihad Alex,El Mokawloon
+2020149,Amin Omar,Khaled Bichara Stadium,El Gouna,Enppi SC
+2020150,Ahmed Hamdi,Mahalla Stadium,El Mahalla,Pyramids FC
+2020151,Ahmed El Adawi,Cairo International Stadium,Zamalek,Bank El Ahly
+2020152,Mohamed Adel,Petrosport Stadium,Aswan SC,Ahly SC
+2020153,Mahmoud El Banna,Mahalla Stadium,El Mahalla,Smouha
+2020154,Mahmoud Nagy,Petrosport Stadium,Aswan SC,Enppi SC
+2020155,Mahmoud Ashour,Khaled Bichara Stadium,El Gouna,Talaea El Gaish
+2020156,Mohamed Salama,,Wadi Degla,Bank El Ahly
+2020157,Mohamed Maarouf,Ismailia Stadium,Ismaily,El Masry
+2020158,Ibrahim Nour Eldin,Suez Canal Authority Stadium,Cleopatra FC,Entag El Harby
+2020159,Ahmed El Ghandour,Alexandria Stadium,Ittihad Alex,Pyramids FC
+2020160,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,El Mokawloon
+2020161,Mahmoud Ashour,Egyptian Army Stadium,El Makasa,Ahly SC
+2020162,Ahmed El Ghandour,,El Masry,El Gouna
+2020163,Mahmoud Bassiouni,Arab Contractors Stadium,El Mokawloon,Wadi Degla
+2020164,Abdelaziz El Sayed,Cairo International Stadium,Bank El Ahly,Cleopatra FC
+2020165,Mahmoud Nagy,Borg El Arab Stadium,Smouha,Ittihad Alex
+2020166,Amin Omar,Gehaz El Reyada Stadium,Talaea El Gaish,Aswan SC
+2020167,Mahmoud El Banna,El Salam Stadium,Entag El Harby,Ismaily
+2020168,Ahmed Gamal,Petrosport Stadium,Enppi SC,El Makasa
+2020169,Gehad Grisha,Cairo International Stadium,Zamalek,Pyramids FC
+2020170,Mohamed Maarouf,Mahalla Stadium,El Mahalla,Ahly SC
+2020171,Mohamed Youssef,El Salam Stadium,Entag El Harby,Bank El Ahly
+2020172,Said Hamza,Suez Stadium,Cleopatra FC,El Mokawloon
+2020173,Mahmoud Ashour,Alexandria Stadium,Aswan SC,El Masry
+2020174,Ahmed El Ghandour,Ismailia Stadium,Ismaily,El Gouna
+2020175,Ibrahim Nour Eldin,Arab Contractors Stadium,El Makasa,Talaea El Gaish
+2020176,Walid Abdelrazak,Mahalla Stadium,El Mahalla,Enppi SC
+2020177,Tarek Magdi,El Salam Stadium,Wadi Degla,Pyramids FC
+2020178,Mahmoud El Banna,Alexandria Stadium,Ittihad Alex,Ahly SC
+2020179,Mohamed El Hanafy,Cairo International Stadium,Zamalek,Smouha
+2020180,Mohamed Maarouf,Arab Contractors Stadium,El Mokawloon,Entag El Harby
+2020181,Mohamed Adel,Gehaz El Reyada Stadium,Talaea El Gaish,El Mahalla
+2020182,Gehad Grisha,,El Masry,El Makasa
+2020183,Abdelaziz El Sayed,Petrosport Stadium,Enppi SC,Ittihad Alex
+2020184,Mahmoud Nagy,30 June Stadium,Pyramids FC,Cleopatra FC
+2020185,Mohamed El Sabahi,Khaled Bichara Stadium,El Gouna,Aswan SC
+2020186,Mohamed El Hanafy,Petrosport Stadium,Bank El Ahly,Ismaily
+2020187,Ahmed Hamdi,Borg El Arab Stadium,Smouha,Wadi Degla
+2020188,Amin Omar,El Ahly Stadium,Ahly SC,Zamalek
+2020189,Ahmed El Ghandour,Petrosport Stadium,Bank El Ahly,El Mokawloon
+2020190,Ahmed El Adawi,Ismailia Stadium,Ismaily,Aswan SC
+2020191,Mahmoud Bassiouni,Alexandria Stadium,El Mahalla,El Masry
+2020192,Tarek Magdi,Cairo International Stadium,Zamalek,Enppi SC
+2020193,Abdelaziz El Sayed,Suez Canal Authority Stadium,Cleopatra FC,Smouha
+2020194,Ahmed Gamal,Fayoum Stadium,El Makasa,El Gouna
+2020195,Mohamed El Hanafy,Alexandria Stadium,Ittihad Alex,Talaea El Gaish
+2020196,Ahmed Gamal,El Salam Stadium,Entag El Harby,Pyramids FC
+2020197,Ibrahim Nour Eldin,El Salam Stadium,Wadi Degla,Ahly SC
+2020198,Mahmoud El Banna,Arab Contractors Stadium,El Mokawloon,Ismaily
+2020199,Walid Abdelrazak,Aswan Stadium,Aswan SC,El Makasa
+2020200,Said Hamza,Khaled Bichara Stadium,El Gouna,El Mahalla
+2020201,Mahmoud Ashour,Cairo International Stadium,Zamalek,Talaea El Gaish
+2020202,Ibrahim Nour Eldin,Alexandria Stadium,El Masry,Ittihad Alex
+2020203,Mahmoud Nagy,Borg El Arab Stadium,Smouha,Entag El Harby
+2020204,Mohamed Salama,Petrosport Stadium,Enppi SC,Wadi Degla
+2020205,Mahmoud Bassiouni,30 June Stadium,Pyramids FC,Bank El Ahly
+2020206,Amin Omar,El Ahly Stadium,Ahly SC,Cleopatra FC
+2020207,Abdelaziz El Sayed,Ismailia Stadium,Ismaily,El Makasa
+2020208,Mahmoud El Banna,Alexandria Stadium,Zamalek,El Masry
+2020209,Mohamed Maarouf,El Salam Stadium,Wadi Degla,Talaea El Gaish
+2020210,Gehad Grisha,Alexandria Stadium,Ittihad Alex,El Gouna
+2020211,Ahmed El Ghandour,Petrosport Stadium,Aswan SC,El Mahalla
+2020212,Mohamed Youssef,Cairo International Stadium,Bank El Ahly,Smouha
+2020213,Mohamed El Sabahi,Suez Canal Authority Stadium,Cleopatra FC,Enppi SC
+2020214,Ahmed El Adawi,Arab Contractors Stadium,El Mokawloon,Pyramids FC
+2020215,Mohamed Maarouf,El Salam Stadium,Entag El Harby,Ahly SC
+2020216,Ibrahim Nour Eldin,Fayoum Stadium,El Makasa,El Mahalla
+2020217,Mahmoud Bassiouni,Alexandria Stadium,El Masry,Wadi Degla
+2020218,Mohamed Adel,Aswan Stadium,Aswan SC,Ittihad Alex
+2020219,Mohamed El Hanafy,Gehaz El Reyada Stadium,Talaea El Gaish,Cleopatra FC
+2020220,Said Hamza,Petrosport Stadium,Enppi SC,Entag El Harby
+2020221,Ahmed El Adawi,Borg El Arab Stadium,Smouha,El Mokawloon
+2020222,Mahmoud Nagy,Khaled Bichara Stadium,El Gouna,Zamalek
+2020223,Abdelaziz El Sayed,Cairo International Stadium,Ahly SC,Bank El Ahly
+2020224,Gehad Grisha,30 June Stadium,Pyramids FC,Ismaily
+2020225,Mahmoud El Banna,El Salam Stadium,Entag El Harby,Talaea El Gaish
+2020226,Tarek Magdi,30 June Stadium,Pyramids FC,Smouha
+2020227,Mahmoud Ashour,Cairo International Stadium,Bank El Ahly,Enppi SC
+2020228,Mohamed Youssef,Suez Canal Authority Stadium,Cleopatra FC,El Masry
+2020229,Mohamed El Sabahi,Ismailia Stadium,Ismaily,El Mahalla
+2020230,Mohamed El Hanafy,Alexandria Stadium,Ittihad Alex,El Makasa
+2020231,Mahmoud Bassiouni,Cairo International Stadium,Zamalek,Aswan SC
+2020232,Ahmed Hamdi,El Salam Stadium,Wadi Degla,El Gouna
+2020233,Mahmoud El Banna,Petrosport Stadium,El Mokawloon,Ahly SC
+2020234,Ibrahim Nour Eldin,Khaled Bichara Stadium,El Gouna,Cleopatra FC
+2020235,Ahmed El Adawi,Mahalla Stadium,El Mahalla,Ittihad Alex
+2020236,Mahmoud El Banna,Petrosport Stadium,Aswan SC,Wadi Degla
+2020237,Abdelaziz El Sayed,,El Masry,Entag El Harby
+2020238,Mahmoud Nagy,Gehaz El Reyada Stadium,Talaea El Gaish,Bank El Ahly
+2020239,Amin Omar,Borg El Arab Stadium,Smouha,Ismaily
+2020240,Walid Abdelrazak,Petrosport Stadium,Enppi SC,El Mokawloon
+2020241,Said Hamza,Arab Contractors Stadium,El Makasa,Zamalek
+2020242,Mohamed Adel,El Ahly Stadium,Ahly SC,Pyramids FC
+2020243,Gehad Grisha,Suez Stadium,Cleopatra FC,Aswan SC
+2020244,Tarek Magdi,El Salam Stadium,Entag El Harby,El Gouna
+2020245,Mohamed El Sabahi,El Shorta Stadium,Bank El Ahly,El Masry
+2020246,Mohamed El Hanafy,Arab Contractors Stadium,El Mokawloon,Talaea El Gaish
+2020247,Mohamed Maarouf,30 June Stadium,Pyramids FC,Enppi SC
+2020248,Ibrahim Nour Eldin,Alexandria Stadium,Smouha,Ahly SC
+2020249,Mohamed Salama,El Salam Stadium,Wadi Degla,El Makasa
+2020250,Ahmed El Ghandour,Ismailia Stadium,Ismaily,Ittihad Alex
+2020251,Ahmed El Ghandour,Alexandria Stadium,Zamalek,El Mahalla
+2020252,Mohamed El Sabahi,Khaled Bichara Stadium,El Gouna,Bank El Ahly
+2020253,Mahmoud Bassiouni,Aswan Stadium,Aswan SC,Entag El Harby
+2020254,Mahmoud Nagy,Gehaz El Reyada Stadium,Talaea El Gaish,Pyramids FC
+2020255,Tarek Magdi,,El Masry,El Mokawloon
+2020256,Ahmed El Adawi,Petrosport Stadium,Enppi SC,Smouha
+2020257,Mohamed Maarouf,Mahalla Stadium,El Mahalla,Wadi Degla
+2020258,Mohamed Salama,Fayoum Stadium,El Makasa,Cleopatra FC
+2020259,Mahmoud El Banna,Alexandria Stadium,Ittihad Alex,Zamalek
+2020260,Mohamed El Hanafy,Alexandria Stadium,Ahly SC,Ismaily
+2020261,Ibrahim Nour Eldin,Petrosport Stadium,Bank El Ahly,Aswan SC
+2020262,Walid Abdelrazak,Arab Contractors Stadium,El Mokawloon,El Gouna
+2020263,Abdelaziz El Sayed,30 June Stadium,Pyramids FC,El Masry
+2020264,Mohamed Adel,Borg El Arab Stadium,Smouha,Talaea El Gaish
+2020265,Amin Omar,El Salam Stadium,Wadi Degla,Ittihad Alex
+2020266,Said Hamza,Suez Stadium,Cleopatra FC,El Mahalla
+2020267,Gehad Grisha,Ismailia Stadium,Ismaily,Zamalek
+2020268,Mahmoud Ashour,El Ahly Stadium,Ahly SC,Enppi SC
+2020269,Mohamed Youssef,El Salam Stadium,Entag El Harby,El Makasa
+2020270,Mahmoud El Banna,Aswan Stadium,Aswan SC,El Mokawloon
+2020271,Tarek Magdi,Khaled Bichara Stadium,El Gouna,Pyramids FC
+2020272,Ahmed El Ghandour,,El Masry,Smouha
+2020273,Mohamed Maarouf,Alexandria Stadium,Ittihad Alex,Cleopatra FC
+2020274,Ahmed Gamal,Petrosport Stadium,Enppi SC,Ismaily
+2020275,Ibrahim Nour Eldin,Gehaz El Reyada Stadium,Talaea El Gaish,Ahly SC
+2020276,Mohamed El Sabahi,Cairo International Stadium,Zamalek,Wadi Degla
+2020277,Ahmed Hamdi,Mahalla Stadium,El Mahalla,Entag El Harby
+2020278,Amin Omar,Arab Contractors Stadium,El Makasa,Bank El Ahly
+2020279,Ahmed El Ghandour,30 June Stadium,Pyramids FC,Aswan SC
+2020280,Mahmoud Ashour,Ismailia Stadium,Ismaily,Wadi Degla
+2020281,Walid Abdelrazak,Petrosport Stadium,Enppi SC,Talaea El Gaish
+2020282,Mohamed El Hanafy,Arab Contractors Stadium,Cleopatra FC,Zamalek
+2020283,Mohamed Adel,Cairo International Stadium,Ahly SC,El Masry
+2020284,Ahmed El Adawi,El Salam Stadium,Entag El Harby,Ittihad Alex
+2020285,Mohamed Maarouf,Petrosport Stadium,Bank El Ahly,El Mahalla
+2020286,Abdelaziz El Sayed,Borg El Arab Stadium,Smouha,El Gouna
+2020287,Said Hamza,Arab Contractors Stadium,El Mokawloon,El Makasa
+2020288,Mohamed El Hanafy,Ismailia Stadium,Ismaily,Talaea El Gaish
+2020289,Mahmoud Nagy,,El Masry,Enppi SC
+2020290,Ahmed El Ghandour,El Salam Stadium,Wadi Degla,Cleopatra FC
+2020291,Tarek Magdi,Aswan Stadium,Aswan SC,Smouha
+2020292,Mohamed Adel,Alexandria Stadium,Ittihad Alex,Bank El Ahly
+2020293,Amin Omar,Khaled Bichara Stadium,El Gouna,Ahly SC
+2020294,Mohamed Maarouf,Cairo International Stadium,Zamalek,Entag El Harby
+2020295,Mohamed Salama,Mahalla Stadium,El Mahalla,El Mokawloon
+2020296,Ahmed Hamdi,Arab Contractors Stadium,El Makasa,Pyramids FC
+2020297,Hesham El Fallal,El Max,Talaea El Gaish,El Masry
+2020298,Sabry Ibrahim,Suez Canal Authority Stadium,Cleopatra FC,Ismaily
+2020299,Said Hamza,El Ahly Stadium,Ahly SC,Aswan SC
+2020300,Mahmoud Ashour,El Shorta Stadium,Bank El Ahly,Zamalek
+2020301,,Alexandria Stadium,Smouha,El Makasa
+2020302,Wael Farhan,30 June Stadium,Pyramids FC,El Mahalla
+2020303,Nader Kamar,Arab Contractors Stadium,El Mokawloon,Ittihad Alex
+2020304,Mohamed Youssef,El Salam Stadium,Entag El Harby,Wadi Degla
+2020305,Mohamed Sayed Bakr,Petrosport Stadium,Enppi SC,El Gouna

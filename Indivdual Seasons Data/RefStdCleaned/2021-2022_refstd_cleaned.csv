@@ -1,0 +1,307 @@
+match_id,Referee,Stadium,Home team,Away team
+2021000,Nader Kamar,Petrosport Stadium,Bank El Ahly,Talaea El Gaish
+2021001,Abdelaziz El Sayed,Alexandria Stadium,Smouha,Ittihad Alex
+2021002,Mohamed Maarouf,El Salam Stadium,Future FC,Pharco FC
+2021003,Hesham El Fallal,Arab Contractors Stadium,El Mokawloon,Eastern Company
+2021004,,Khaled Bichara Stadium,El Gouna,Cleopatra FC
+2021005,Mahmoud Nagy,Petrosport Stadium,Zamalek,Enppi SC
+2021006,Wael Farhan,30 June Stadium,Pyramids FC,El Makasa
+2021007,Mohamed Adel,Borg El Arab Stadium,Ismaily,Ahly SC
+2021008,Mahmoud Bassiouni,Borg El Arab Stadium,El Mahalla,El Masry
+2021009,Mahmoud El Banna,Alexandria Stadium,Ittihad Alex,Future FC
+2021010,Mohamed Youssef,Petrosport Stadium,Enppi SC,El Mokawloon
+2021011,Mohamed Maarouf,Arab Contractors Stadium,Cleopatra FC,Ismaily
+2021012,Mahmoud Wafa,Cairo Military Academy Stadium,El Makasa,El Gouna
+2021013,Amin Omar,Gehaz El Reyada Stadium,Talaea El Gaish,Zamalek
+2021014,Ibrahim Nour Eldin,Alexandria Stadium,Pharco FC,Pyramids FC
+2021015,Mahmoud Ashour,El Ahly Stadium,Ahly SC,Bank El Ahly
+2021016,Ahmed El Ghandour,Alexandria Stadium,El Masry,Smouha
+2021017,Ahmed Gamal,Petrosport Stadium,Eastern Company,El Mahalla
+2021018,Tarek Magdi,El Shorta Stadium,Bank El Ahly,Ismaily
+2021019,Sobhy El Amrawy,Arab Contractors Stadium,El Makasa,Cleopatra FC
+2021020,Walid Abdelrazak,Khaled Bichara Stadium,El Gouna,Pharco FC
+2021021,Ibrahim Nour Eldin,Arab Contractors Stadium,El Mokawloon,Talaea El Gaish
+2021022,Mohamed Maarouf,30 June Stadium,Pyramids FC,Ittihad Alex
+2021023,Wael Farhan,Alexandria Stadium,Smouha,Eastern Company
+2021024,Nader Kamar,Mahalla Stadium,El Mahalla,Enppi SC
+2021025,Mahmoud Ashour,Borg El Arab Stadium,Future FC,El Masry
+2021026,Mohamed Adel,Cairo International Stadium,Zamalek,Ahly SC
+2021027,Hesham El Fallal,Alexandria Stadium,Pharco FC,El Makasa
+2021028,Mohamed El Hanafy,Petrosport Stadium,Eastern Company,Future FC
+2021029,Abdelaziz El Sayed,Arab Contractors Stadium,Cleopatra FC,Bank El Ahly
+2021030,Nader Kamar,Alexandria Stadium,Ittihad Alex,El Gouna
+2021031,Mahmoud Ashour,Gehaz El Reyada Stadium,Talaea El Gaish,El Mahalla
+2021032,Amin Omar,Borg El Arab Stadium,El Masry,Pyramids FC
+2021033,Mahmoud El Banna,Ismailia Stadium,Ismaily,Zamalek
+2021034,Mohamed Maarouf,Petrosport Stadium,Enppi SC,Smouha
+2021035,Ahmed El Ghandour,El Ahly Stadium,Ahly SC,El Mokawloon
+2021036,Mahmoud Wafa,Alexandria Stadium,Pharco FC,Cleopatra FC
+2021037,Tarek Magdi,Fayoum Stadium,El Makasa,Ittihad Alex
+2021038,Mostafa El Shohdi,30 June Stadium,Pyramids FC,Eastern Company
+2021039,Mohamed El Hanafy,Mahalla Stadium,El Mahalla,Ahly SC
+2021040,Mahmoud Ashour,Cairo International Stadium,Zamalek,Bank El Ahly
+2021041,Mohamed El Sabahi,Borg El Arab Stadium,El Gouna,El Masry
+2021042,Amin Omar,Arab Contractors Stadium,El Mokawloon,Ismaily
+2021043,Mohamed Adel,El Salam Stadium,Future FC,Enppi SC
+2021044,Mohamed El Sabahi,Borg El Arab Stadium,Smouha,Talaea El Gaish
+2021045,Abdelaziz El Sayed,Alexandria Stadium,Ittihad Alex,Pharco FC
+2021046,Mohamed Maarouf,Arab Contractors Stadium,Cleopatra FC,Zamalek
+2021047,Mahmoud El Banna,El Ahly Stadium,Ahly SC,Smouha
+2021048,Mahmoud Nagy,Cairo International Stadium,Bank El Ahly,El Mokawloon
+2021049,Ahmed El Ghandour,Ismailia Stadium,Ismaily,El Mahalla
+2021050,Mahmoud Ashour,Gehaz El Reyada Stadium,Talaea El Gaish,Future FC
+2021051,Mahmoud Bassiouni,Petrosport Stadium,Eastern Company,El Gouna
+2021052,Ibrahim Nour Eldin,Borg El Arab Stadium,El Masry,El Makasa
+2021053,Nader Kamar,Petrosport Stadium,Enppi SC,Pyramids FC
+2021054,Mahmoud El Banna,Borg El Arab Stadium,Pharco FC,El Masry
+2021055,Mohamed Salama,Mahalla Stadium,El Mahalla,Bank El Ahly
+2021056,Mahmoud Nagy,Khaled Bichara Stadium,El Gouna,Enppi SC
+2021057,Sayed Shaaban,Fayoum Stadium,El Makasa,Eastern Company
+2021058,Mohamed Adel,Alexandria Stadium,Ittihad Alex,Cleopatra FC
+2021059,Mohamed El Hanafy,Borg El Arab Stadium,Smouha,Ismaily
+2021060,Abdelaziz El Sayed,30 June Stadium,Pyramids FC,Talaea El Gaish
+2021061,Mahmoud Ashour,Arab Contractors Stadium,El Mokawloon,Zamalek
+2021062,Mohamed El Hanafy,El Salam Stadium,Future FC,Ahly SC
+2021063,Ahmed El Ghandour,Suez Canal Authority Stadium,Cleopatra FC,El Mokawloon
+2021064,Mahmoud Nasef,Petrosport Stadium,Eastern Company,Pharco FC
+2021065,Tarek Magdi,Borg El Arab Stadium,El Masry,Ittihad Alex
+2021066,,Cairo International Stadium,Zamalek,El Mahalla
+2021067,,Petrosport Stadium,Enppi SC,El Makasa
+2021068,Mohamed Maarouf,Gehaz El Reyada Stadium,Talaea El Gaish,El Gouna
+2021069,Mostafa Osman,Cairo International Stadium,Bank El Ahly,Smouha
+2021070,Amin Omar,Ismailia Stadium,Ismaily,Future FC
+2021071,Mahmoud El Banna,El Ahly Stadium,Ahly SC,Pyramids FC
+2021072,Sayed Mounir,Alexandria Stadium,Ittihad Alex,Eastern Company
+2021073,Mohamed Adel,Cairo Military Academy Stadium,El Makasa,Talaea El Gaish
+2021074,Mahmoud Ashour,Mahalla Stadium,El Mahalla,El Mokawloon
+2021075,Ahmed El Ghandour,Alexandria Stadium,Smouha,Zamalek
+2021076,Mohamed El Sabahi,Alexandria Stadium,Pharco FC,Enppi SC
+2021077,Mohamed El Hanafy,30 June Stadium,Pyramids FC,Ismaily
+2021078,Mohamed Maarouf,El Salam Stadium,Future FC,Bank El Ahly
+2021079,Mahmoud Nagy,Borg El Arab Stadium,El Masry,Cleopatra FC
+2021080,Mohamed Adel,Khaled Bichara Stadium,El Gouna,Ahly SC
+2021081,Amin Omar,Arab Contractors Stadium,El Mokawloon,Smouha
+2021082,Ibrahim Nour Eldin,Gehaz El Reyada Stadium,Talaea El Gaish,Pharco FC
+2021083,Mohamed Adel,Suez Canal Authority Stadium,Cleopatra FC,El Mahalla
+2021084,Walid Abdelrazak,Petrosport Stadium,Enppi SC,Ittihad Alex
+2021085,Abdelaziz El Sayed,El Ahly Stadium,Ahly SC,El Makasa
+2021086,Ibrahim Mohamed,Borg El Arab Stadium,Eastern Company,El Masry
+2021087,Mahmoud El Banna,Ismailia Stadium,Ismaily,El Gouna
+2021088,Ahmed El Ghandour,Petrosport Stadium,Bank El Ahly,Pyramids FC
+2021089,Mohamed El Hanafy,Cairo International Stadium,Zamalek,Future FC
+2021090,Wael Farhan,Cairo International Stadium,Future FC,El Mokawloon
+2021091,Mostafa El Shohdi,Borg El Arab Stadium,Smouha,El Mahalla
+2021092,,Petrosport Stadium,Eastern Company,Cleopatra FC
+2021093,Mahmoud Ashour,Alexandria Stadium,Ittihad Alex,Talaea El Gaish
+2021094,Nader Kamar,Khaled Bichara Stadium,El Gouna,Bank El Ahly
+2021095,Mohamed El Sabahi,Cairo Military Academy Stadium,El Makasa,Ismaily
+2021096,Mohamed Maarouf,Alexandria Stadium,Pharco FC,Ahly SC
+2021097,Ahmed Gamal,Borg El Arab Stadium,El Masry,Enppi SC
+2021098,Amin Omar,30 June Stadium,Pyramids FC,Zamalek
+2021099,Mohamed Adel,Arab Contractors Stadium,El Mokawloon,Pyramids FC
+2021100,Ahmed Hamdi,El Shorta Stadium,Bank El Ahly,El Makasa
+2021101,Ahmed El Ghandour,Ismailia Stadium,Ismaily,Pharco FC
+2021102,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,El Gouna
+2021103,Mahmoud Wafa,Petrosport Stadium,Enppi SC,Eastern Company
+2021104,Mohamed Maarouf,Suez Canal Authority Stadium,Cleopatra FC,Smouha
+2021105,Hesham El Fallal,Mahalla Stadium,El Mahalla,Future FC
+2021106,Amin Omar,Borg El Arab Stadium,Talaea El Gaish,El Masry
+2021107,Ahmed El Ghandour,El Ahly Stadium,Ahly SC,Ittihad Alex
+2021108,Mohamed El Sabahi,El Salam Stadium,Future FC,Smouha
+2021109,Mahmoud Bassiouni,Khaled Bichara Stadium,El Gouna,El Mokawloon
+2021110,Mohamed Adel,Alexandria Stadium,Ittihad Alex,Ismaily
+2021111,Amin Omar,Petrosport Stadium,Enppi SC,Cleopatra FC
+2021112,Mohamed El Kallawy,Alexandria Stadium,Pharco FC,Bank El Ahly
+2021113,Tarek Magdi,Petrosport Stadium,Eastern Company,Talaea El Gaish
+2021114,Sayed Mounir,30 June Stadium,Pyramids FC,El Mahalla
+2021115,Mahmoud Ashour,Borg El Arab Stadium,El Masry,Ahly SC
+2021116,Mohamed El Sabahi,Cairo Military Academy Stadium,El Makasa,Zamalek
+2021117,Mohamed Adel,Cairo International Stadium,Zamalek,Pharco FC
+2021118,Hesham El Fallal,Gehaz El Reyada Stadium,Talaea El Gaish,Enppi SC
+2021119,Mahmoud Nagy,Arab Contractors Stadium,El Mokawloon,El Makasa
+2021120,Mohamed El Hanafy,Petrosport Stadium,Bank El Ahly,Ittihad Alex
+2021121,Tarek Magdi,Suez Canal Authority Stadium,Cleopatra FC,Future FC
+2021122,Walid Abdelrazak,Mahalla Stadium,El Mahalla,El Gouna
+2021123,Mohamed El Hanafy,Borg El Arab Stadium,Ismaily,El Masry
+2021124,Mahmoud Nagy,Alexandria Stadium,Smouha,Pyramids FC
+2021125,Ibrahim Nour Eldin,El Ahly Stadium,Ahly SC,Eastern Company
+2021126,Ahmed Gamal,Petrosport Stadium,Eastern Company,Ismaily
+2021127,Mostafa Osman,Alexandria Stadium,Pharco FC,El Mokawloon
+2021128,Mahmoud Bassiouni,Cairo Military Academy Stadium,El Makasa,El Mahalla
+2021129,Abdelaziz El Sayed,Borg El Arab Stadium,Ittihad Alex,Zamalek
+2021130,Nader Kamar,Gehaz El Reyada Stadium,Talaea El Gaish,Cleopatra FC
+2021131,Youssef Mohamed,Khaled Bichara Stadium,El Gouna,Smouha
+2021132,Mohamed El Sabahi,Arab Contractors Stadium,Enppi SC,Ahly SC
+2021133,Mohamed Adel,,El Masry,Bank El Ahly
+2021134,Mohamed Maarouf,30 June Stadium,Pyramids FC,Future FC
+2021135,Ibrahim Nour Eldin,Cairo International Stadium,Future FC,El Gouna
+2021136,Mahmoud Wafa,Alexandria Stadium,Smouha,El Makasa
+2021137,Wael Farhan,Mahalla Stadium,El Mahalla,Pharco FC
+2021138,Tarek Magdi,Arab Contractors Stadium,El Mokawloon,Ittihad Alex
+2021139,Sobhy El Amrawy,Cairo International Stadium,Bank El Ahly,Eastern Company
+2021140,Mahmoud Nagy,Ismailia Stadium,Ismaily,Enppi SC
+2021141,Mahmoud El Banna,El Ahly Stadium,Ahly SC,Talaea El Gaish
+2021142,Mohamed El Hanafy,30 June Stadium,Pyramids FC,Cleopatra FC
+2021143,Mohamed Maarouf,Cairo International Stadium,Zamalek,El Masry
+2021144,Mohamed El Atbany,Cairo Military Academy Stadium,El Makasa,Future FC
+2021145,Mohamed El Sabahi,Alexandria Stadium,Pharco FC,Smouha
+2021146,Mahmoud Ashour,Petrosport Stadium,Enppi SC,Bank El Ahly
+2021147,Mohamed Adel,Alexandria Stadium,Ittihad Alex,El Mahalla
+2021148,Nader Kamar,Arab Contractors Stadium,Cleopatra FC,Ahly SC
+2021149,Amin Omar,Gehaz El Reyada Stadium,Talaea El Gaish,Ismaily
+2021150,Ahmed El Ghandour,Petrosport Stadium,Eastern Company,Zamalek
+2021151,Ibrahim Nour Eldin,Borg El Arab Stadium,El Masry,El Mokawloon
+2021152,Mohamed Salama,Khaled Bichara Stadium,El Gouna,Pyramids FC
+2021153,Hamada El Kalawi,Petrosport Stadium,Eastern Company,El Mokawloon
+2021154,Mahmoud Ashour,Alexandria Stadium,Pharco FC,Future FC
+2021155,Ibrahim Nour Eldin,Gehaz El Reyada Stadium,Talaea El Gaish,Bank El Ahly
+2021156,Sayed Mounir,Arab Contractors Stadium,Cleopatra FC,El Gouna
+2021157,Mahmoud El Banna,Cairo International Stadium,Zamalek,Enppi SC
+2021158,Mahmoud Bassiouni,Borg El Arab Stadium,El Masry,El Mahalla
+2021159,Nader Kamar,Alexandria Stadium,Ittihad Alex,Smouha
+2021160,Walid Abdelrazak,Cairo Military Academy Stadium,El Makasa,Pyramids FC
+2021161,Mohamed El Hanafy,El Ahly Stadium,Ahly SC,Ismaily
+2021162,Mohamed Adel,Ismailia Stadium,Ismaily,Cleopatra FC
+2021163,Abdelaziz El Sayed,Arab Contractors Stadium,El Mokawloon,Enppi SC
+2021164,Nader Kamar,30 June Stadium,Pyramids FC,Pharco FC
+2021165,Ahmed Hamdi,Mahalla Stadium,El Mahalla,Eastern Company
+2021166,Ahmed El Ghandour,Borg El Arab Stadium,Smouha,El Masry
+2021167,Mohamed Abbas Kabil,Khaled Bichara Stadium,El Gouna,El Makasa
+2021168,Wael Farhan,El Salam Stadium,Future FC,Ittihad Alex
+2021169,Mohamed El Hanafy,Cairo International Stadium,Zamalek,Talaea El Gaish
+2021170,Amin Omar,Arab Contractors Stadium,Bank El Ahly,Ahly SC
+2021171,Mostafa El Shohdi,Petrosport Stadium,Eastern Company,Smouha
+2021172,Mahmoud Bassiouni,Gehaz El Reyada Stadium,Talaea El Gaish,El Mokawloon
+2021173,Mohamed Maarouf,Ismailia Stadium,Ismaily,Bank El Ahly
+2021174,Tarek Magdi,,El Masry,Future FC
+2021175,Hosny Soltan,Arab Contractors Stadium,Cleopatra FC,El Makasa
+2021176,Ibrahim Nour Eldin,Alexandria Stadium,Ittihad Alex,Pyramids FC
+2021177,Hesham El Fallal,Alexandria Stadium,Pharco FC,El Gouna
+2021178,Ahmed Gamal,Petrosport Stadium,Enppi SC,El Mahalla
+2021179,José Luis Munuera Montero,El Ahly Stadium,Ahly SC,Zamalek
+2021180,Nader Kamar,Khaled Bichara Stadium,El Gouna,Ittihad Alex
+2021181,Mohamed El Tabei,Cairo Military Academy Stadium,El Makasa,Pharco FC
+2021182,Sayed Shaaban,Mahalla Stadium,El Mahalla,Talaea El Gaish
+2021183,Mahmoud Ashour,Alexandria Stadium,Smouha,Enppi SC
+2021184,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Ismaily
+2021185,Mohamed El Atbany,El Salam Stadium,Future FC,Eastern Company
+2021186,Mahmoud El Banna,Borg El Arab Stadium,Pyramids FC,El Masry
+2021187,Mohamed El Hanafy,Petrosport Stadium,Bank El Ahly,Cleopatra FC
+2021188,Mohamed Adel,Arab Contractors Stadium,El Mokawloon,Ahly SC
+2021189,Mostafa Osman,Arab Contractors Stadium,Cleopatra FC,Pharco FC
+2021190,Amin Omar,Ismailia Stadium,Ismaily,El Mokawloon
+2021191,Mahmoud Nagy,Gehaz El Reyada Stadium,Talaea El Gaish,Smouha
+2021192,Mahmoud Ashour,Borg El Arab Stadium,El Masry,El Gouna
+2021193,Mohamed Maarouf,Petrosport Stadium,Enppi SC,Future FC
+2021194,Amr El Shenawy,Alexandria Stadium,Ittihad Alex,El Makasa
+2021195,Sobhy El Amrawy,Petrosport Stadium,Eastern Company,Pyramids FC
+2021196,Mahmoud El Banna,El Shorta Stadium,Bank El Ahly,Zamalek
+2021197,Abdelaziz El Sayed,El Ahly Stadium,Ahly SC,El Mahalla
+2021198,Sayed Mounir,Cairo Military Academy Stadium,El Makasa,El Masry
+2021199,Mahmoud Bassiouni,Khaled Bichara Stadium,El Gouna,Eastern Company
+2021200,Mohamed Maarouf,Alexandria Stadium,Pharco FC,Ittihad Alex
+2021201,Hesham El Fallal,El Salam Stadium,Future FC,Talaea El Gaish
+2021202,Mohamed Adel,Mahalla Stadium,El Mahalla,Ismaily
+2021203,Tarek Magdi,Arab Contractors Stadium,El Mokawloon,Bank El Ahly
+2021204,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Cleopatra FC
+2021205,Mohamed El Kallawy,30 June Stadium,Pyramids FC,Enppi SC
+2021206,Mahmoud El Banna,Alexandria Stadium,Smouha,Ahly SC
+2021207,Ibrahim Mohamed,Petrosport Stadium,Bank El Ahly,El Mahalla
+2021208,Mahmoud El Banna,Gehaz El Reyada Stadium,Talaea El Gaish,Pyramids FC
+2021209,Amin Omar,Cairo International Stadium,Zamalek,El Mokawloon
+2021210,Mohamed El Hanafy,El Ahly Stadium,Ahly SC,Future FC
+2021211,Ibrahim Nour Eldin,Borg El Arab Stadium,El Masry,Pharco FC
+2021212,Nader Kamar,Ismailia Stadium,Ismaily,Smouha
+2021213,Mohamed Youssef,Petrosport Stadium,Enppi SC,El Gouna
+2021214,Ahmed Hamdi,Petrosport Stadium,Eastern Company,El Makasa
+2021215,Mohamed El Atbany,Arab Contractors Stadium,Cleopatra FC,Ittihad Alex
+2021216,Mohamed El Sabahi,Mahalla Stadium,El Mahalla,Zamalek
+2021217,Tarek Magdi,El Salam Stadium,Future FC,Ismaily
+2021218,Carlos del Cerro Grande,30 June Stadium,Pyramids FC,Ahly SC
+2021219,Abdelaziz El Sayed,Alexandria Stadium,Smouha,Bank El Ahly
+2021220,Mohamed El Kallawy,Khaled Bichara Stadium,El Gouna,Talaea El Gaish
+2021221,Mahmoud El Banna,Arab Contractors Stadium,El Mokawloon,Cleopatra FC
+2021222,Mahmoud Nagy,Alexandria Stadium,Pharco FC,Eastern Company
+2021223,Atef Hussein,Cairo Military Academy Stadium,El Makasa,Enppi SC
+2021224,Sayed Mounir,Borg El Arab Stadium,Ittihad Alex,El Masry
+2021225,Amin Omar,Petrosport Stadium,Eastern Company,Ittihad Alex
+2021226,Walid Abdelrazak,Arab Contractors Stadium,Cleopatra FC,El Masry
+2021227,Mahmoud Bassiouni,Arab Contractors Stadium,El Mokawloon,El Mahalla
+2021228,Mohamed Salama,Petrosport Stadium,Enppi SC,Pharco FC
+2021229,Mohamed El Tabei,Gehaz El Reyada Stadium,Talaea El Gaish,El Makasa
+2021230,Mohamed El Sabahi,Petrosport Stadium,Bank El Ahly,Future FC
+2021231,Mohamed Adel,Ismailia Stadium,Ismaily,Pyramids FC
+2021232,Ibrahim Nour Eldin,El Ahly Stadium,Ahly SC,El Gouna
+2021233,Mahmoud Ashour,Cairo International Stadium,Zamalek,Smouha
+2021234,Nader Kamar,Mahalla Stadium,El Mahalla,Cleopatra FC
+2021235,Sobhy El Amrawy,Borg El Arab Stadium,El Masry,Eastern Company
+2021236,Abdelaziz El Sayed,Alexandria Stadium,Ittihad Alex,Enppi SC
+2021237,Amin Omar,30 June Stadium,Pyramids FC,Bank El Ahly
+2021238,Ahmed El Ghandour,Alexandria Stadium,Smouha,El Mokawloon
+2021239,Mahmoud Nagy,Cairo Military Academy Stadium,El Makasa,Ahly SC
+2021240,Sayed Shaaban,Alexandria Stadium,Pharco FC,Talaea El Gaish
+2021241,Mahmoud El Banna,Khaled Bichara Stadium,El Gouna,Ismaily
+2021242,Mohamed El Hanafy,El Salam Stadium,Future FC,Zamalek
+2021243,Mahmoud Ashour,Borg El Arab Stadium,Enppi SC,El Masry
+2021244,Mahmoud Wafa,Arab Contractors Stadium,Cleopatra FC,Eastern Company
+2021245,Wael Farhan,Mahalla Stadium,El Mahalla,Smouha
+2021246,Mohamed Youssef,Borg El Arab Stadium,Talaea El Gaish,Ittihad Alex
+2021247,Ibrahim Nour Eldin,Ismailia Stadium,Ismaily,El Makasa
+2021248,Nader Kamar,Petrosport Stadium,Bank El Ahly,El Gouna
+2021249,Anastasios Sidiropoulos,Cairo International Stadium,Zamalek,Pyramids FC
+2021250,Hesham El Fallal,Arab Contractors Stadium,El Mokawloon,Future FC
+2021251,Ahmed El Ghandour,El Ahly Stadium,Ahly SC,Pharco FC
+2021252,Mostafa Osman,Alexandria Stadium,Smouha,Cleopatra FC
+2021253,Mohamed El Kallawy,Petrosport Stadium,Eastern Company,Enppi SC
+2021254,Mahmoud Bassiouni,Borg El Arab Stadium,El Masry,Talaea El Gaish
+2021255,Amr Ayed,Cairo Military Academy Stadium,El Makasa,Bank El Ahly
+2021256,Amin Omar,Khaled Bichara Stadium,El Gouna,Zamalek
+2021257,Ahmed Hamdi,El Salam Stadium,Future FC,El Mahalla
+2021258,Mohamed El Sabahi,Alexandria Stadium,Pharco FC,Ismaily
+2021259,Mohamed El Hanafy,30 June Stadium,Pyramids FC,El Mokawloon
+2021260,Ibrahim Nour Eldin,Borg El Arab Stadium,Ittihad Alex,Ahly SC
+2021261,Mohamed El Atbany,Arab Contractors Stadium,Cleopatra FC,Enppi SC
+2021262,Sayed Mounir,Gehaz El Reyada Stadium,Talaea El Gaish,Eastern Company
+2021263,Amin Omar,Mahalla Stadium,El Mahalla,Pyramids FC
+2021264,Nader Kamar,Cairo International Stadium,Zamalek,El Makasa
+2021265,Walid Abdelrazak,Petrosport Stadium,Bank El Ahly,Pharco FC
+2021266,Mohamed Maarouf,Alexandria Stadium,Smouha,Future FC
+2021267,Mohamed Adel,Arab Contractors Stadium,El Mokawloon,El Gouna
+2021268,Mahmoud El Banna,El Ahly Stadium,Ahly SC,El Masry
+2021269,Abdelaziz El Sayed,Ismailia Stadium,Ismaily,Ittihad Alex
+2021270,Ahmed Gamal,Petrosport Stadium,Enppi SC,Talaea El Gaish
+2021271,Mohamed El Sabahi,Petrosport Stadium,Eastern Company,Ahly SC
+2021272,Tarek Magdi,Khaled Bichara Stadium,El Gouna,El Mahalla
+2021273,Ibrahim Nour Eldin,Borg El Arab Stadium,El Masry,Ismaily
+2021274,Ahmed El Ghandour,El Salam Stadium,Future FC,Cleopatra FC
+2021275,Mahmoud Nagy,Cairo Military Academy Stadium,El Makasa,El Mokawloon
+2021276,Mohamed Maarouf,Alexandria Stadium,Pharco FC,Zamalek
+2021277,Mohamed El Kallawy,30 June Stadium,Pyramids FC,Smouha
+2021278,Amin Omar,Alexandria Stadium,Ittihad Alex,Bank El Ahly
+2021279,Mohamed Adel,Mahalla Stadium,El Mahalla,El Makasa
+2021280,Sobhy El Amrawy,Arab Contractors Stadium,Cleopatra FC,Talaea El Gaish
+2021281,Mohamed Maarouf,El Salam Stadium,Future FC,Pyramids FC
+2021282,Nader Kamar,Arab Contractors Stadium,El Mokawloon,Pharco FC
+2021283,Mahmoud El Banna,Alexandria Stadium,Smouha,El Gouna
+2021284,Mohamed Youssef,El Shorta Stadium,Bank El Ahly,El Masry
+2021285,Ibrahim Nour Eldin,Cairo International Stadium,Zamalek,Ittihad Alex
+2021286,Mahmoud Bassiouni,Ismailia Stadium,Ismaily,Eastern Company
+2021287,Tarek Magdi,El Ahly Stadium,Ahly SC,Enppi SC
+2021288,Hesham El Kadi,Cairo Military Academy Stadium,El Makasa,Smouha
+2021289,Ahmed El Ghandour,Alexandria Stadium,Ittihad Alex,El Mokawloon
+2021290,Mohamed El Hanafy,Khaled Bichara Stadium,El Gouna,Future FC
+2021291,Nader Kamar,Arab Contractors Stadium,Cleopatra FC,Pyramids FC
+2021292,Walid Abdelrazak,Borg El Arab Stadium,El Masry,Zamalek
+2021293,Mahmoud Desouki,Petrosport Stadium,Enppi SC,Ismaily
+2021294,Mohamed El Sabahi,Alexandria Stadium,Pharco FC,El Mahalla
+2021295,Mohamed Abbas Kabil,Cairo Military Academy Stadium,Talaea El Gaish,Ahly SC
+2021296,Mohamed Adel,Petrosport Stadium,Eastern Company,Bank El Ahly
+2021297,Hossam Azab,El Salam Stadium,Future FC,El Makasa
+2021298,Shahenda El Maghrabi,Alexandria Stadium,Smouha,Pharco FC
+2021299,Mabrouk Nabil,El Shorta Stadium,Bank El Ahly,Enppi SC
+2021300,Ahmed Gamal,El Ahly Stadium,Ahly SC,Cleopatra FC
+2021301,Mahmoud Ashour,Ismailia Stadium,Ismaily,Talaea El Gaish
+2021302,Mohamed Adel,30 June Stadium,Pyramids FC,El Gouna
+2021303,Mahmoud El Banna,Mahalla Stadium,El Mahalla,Ittihad Alex
+2021304,Mohamed El Hanafy,Arab Contractors Stadium,El Mokawloon,El Masry
+2021305,Ahmed Hamdi,Cairo International Stadium,Zamalek,Eastern Company
