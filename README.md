@@ -55,8 +55,9 @@ The dataset was compiled and enhanced from multiple Excel files:
 - Incorporate player-level time-series performance tracking
 - Enhance prediction with more advanced ML models (e.g., XGBoost, LSTM)
 - Deploy interactive version of dashboards online (e.g., Power BI service or Streamlit)
+
+## 🧑‍💻 Author
 **Ayman Mahmoud**  
 📧 ayman.anaylst@gmail.com  
-📍 Giza, Egypt
-
+📍 Giza, Egypt  
 🔗 [LinkedIn Profile](#) *(https://www.linkedin.com/in/ayman-mahmoud-8b2287235/))*;
